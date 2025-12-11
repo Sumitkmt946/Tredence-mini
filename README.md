@@ -19,16 +19,7 @@ The goal is clarity, correctness, and clean engineering — not complexity.
 
 ## 📁 Project Structure
 
-app/
-├── main.py # FastAPI routes
-├── models.py # Pydantic schemas
-├── storage.py # In-memory storage for graphs & runs
-├── engine/
-│ ├── graph.py # Core workflow engine (runner)
-│ ├── tools.py # Tool registry + rule-based utilities
-│ └── workflows.py # Example nodes + registered workflow
-└── tests/
-└── test_graph.py # Basic test
+<img width="717" height="349" alt="image" src="https://github.com/user-attachments/assets/98e1cd32-8434-4e6b-ba5e-f3e831e439a4" />
 
 
 ---
